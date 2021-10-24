@@ -7,5 +7,7 @@
 4. Edit the `config.py` file with your settings.
 5. Run `generator.py`
 
-**Comission**
+:warning: **Important:** you can't use the traits files provided in the repo
+
+**Comission:**
 We take a 25% commission of your secondary sales royalties to support us and our work.
