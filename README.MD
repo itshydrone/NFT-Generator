@@ -10,4 +10,4 @@
 :warning: **Important:** you can't use the traits files provided in the repo
 
 **Comission:**
-We take a 25% commission of your secondary sales royalties to support us and our work.
+We take a 25% commission of your secondary sales royalties to support us and our work. (e.g. if you set 4% royalties, you get 3% and we get 1%)
