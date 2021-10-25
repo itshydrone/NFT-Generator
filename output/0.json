@@ -23,7 +23,7 @@
                 "share": 75
             },
             {
-                "address": "",
+                "address": "0xfa1db77200f3Ca7B9171b2c362484a1A1374243d",
                 "share": 25
             }
         ]
@@ -31,7 +31,7 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Aqua"
+            "value": "Green"
         },
         {
             "trait_type": "Pumpkin Color",
@@ -43,7 +43,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "Bottom Teeth"
+            "value": "Smile"
         },
         {
             "trait_type": "Nose",
@@ -51,7 +51,7 @@
         },
         {
             "trait_type": "Extras",
-            "value": "Silver Earrings"
+            "value": "None"
         },
         {
             "trait_type": "Eyes",
