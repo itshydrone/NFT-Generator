@@ -78,13 +78,8 @@ while outputCount < imageCount:
 
     royaltyDict = {}
     royaltyDict["address"] = royaltyAddress
-    royaltyDict["share"] = int(6/8*100)
+    royaltyDict["share"] = 100
     metadataDict["properties"]["creators"].append(royaltyDict)
-
-    devRoyaltyDict = {}
-    devRoyaltyDict["address"] = devAddress
-    devRoyaltyDict["share"] = int(2/8*100)
-    metadataDict["properties"]["creators"].append(devRoyaltyDict)
 
     metadataDict["attributes"] = []
 

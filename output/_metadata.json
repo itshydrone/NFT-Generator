@@ -21,18 +21,14 @@
             "creators": [
                 {
                     "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
-                    "share": 75
-                },
-                {
-                    "address": "0xfa1db77200f3Ca7B9171b2c362484a1A1374243d",
-                    "share": 25
+                    "share": 100
                 }
             ]
         },
         "attributes": [
             {
                 "trait_type": "Background",
-                "value": "Green"
+                "value": "Aqua"
             },
             {
                 "trait_type": "Pumpkin Color",
@@ -40,23 +36,23 @@
             },
             {
                 "trait_type": "Headwear",
-                "value": "Cap"
+                "value": "Stem"
             },
             {
                 "trait_type": "Mouth",
-                "value": "Smile"
+                "value": "Bottom Teeth"
             },
             {
                 "trait_type": "Nose",
-                "value": "Standard"
+                "value": "Square"
             },
             {
                 "trait_type": "Extras",
-                "value": "None"
+                "value": "Silver Earrings"
             },
             {
                 "trait_type": "Eyes",
-                "value": "Triangle"
+                "value": "Tee"
             }
         ]
     }
